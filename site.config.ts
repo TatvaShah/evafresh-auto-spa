@@ -24,9 +24,9 @@ export const site: SiteConfig = {
     headline: "A fresh, detailed ride without leaving your driveway",
     subhead: "Premium mobile detailing for cars, trucks, boats and RVs, plus paint correction and ceramic coatings. Book online and we come to you.",
     images: [
-      { src: "/images/post-4.jpg", alt: "Toyota RAV4 after a Fresh N New complete detail" },
-      { src: "/images/post-1.jpg", alt: "Corvette Stingray after a Freshen Up detail" },
-      { src: "/images/post-12.jpg", alt: "Lexus ES after a Fresh N New complete detail" },
+      { src: "/images/post-12.jpg", alt: "White Lexus ES after a Fresh N New complete detail" },
+      { src: "/images/post-10.jpg", alt: "White BMW X3 M after a maintenance detail" },
+      { src: "/images/post-3.jpg", alt: "Clean Nissan Rogue interior after a Super Fresh detail" },
     ],
     primaryCta: { label: "Book now", href: JOBBER },
     secondaryCta: { label: "See our work", href: "#gallery" },
@@ -77,7 +77,6 @@ export const site: SiteConfig = {
       { src: "/images/post-1.jpg", width: 640, height: 480, alt: "Corvette Stingray", caption: "Corvette Stingray, Freshen Up", href: IG("Dd33pXxjl3d") },
       { src: "/images/post-2.jpg", width: 360, height: 640, alt: "Ford F-150", caption: "Ford F-150, Fresh N New", href: IG("DfQjMvEOPuB", true) },
       { src: "/images/post-3.jpg", width: 480, height: 640, alt: "Nissan Rogue", caption: "Nissan Rogue, Super Fresh", href: IG("Dez9Uq2idLJ") },
-      { src: "/images/post-4.jpg", width: 480, height: 640, alt: "Toyota RAV4", caption: "Toyota RAV4, Fresh N New plus engine bay", href: IG("DevA2HGDkMd") },
       { src: "/images/post-5.jpg", width: 480, height: 640, alt: "Infiniti QX60", caption: "Infiniti QX60, Freshen Up", href: IG("Deku4RSCQD3") },
       { src: "/images/post-8.jpg", width: 360, height: 640, alt: "Tesla Model S", caption: "Tesla Model S, Fresh N New", href: IG("Dd9rJLpJEQN", true) },
       { src: "/images/post-9.jpg", width: 640, height: 360, alt: "Honda HR-V", caption: "Honda HR-V, Freshen Up", href: IG("DdmfjWMCbay") },
@@ -89,7 +88,7 @@ export const site: SiteConfig = {
 
   instagram: {
     handle: "evafreshautospa",
-    embeds: [IG("DevA2HGDkMd")],
+    embeds: [IG("DczbwBEDgWE")],
     embedsTitle: "Fresh from Instagram",
   },
 
